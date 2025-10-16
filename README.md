@@ -10,9 +10,11 @@ I’m passionate about combining **business strategy, AI, and data** to build so
 ---
 
 ## 🚀 Current Projects
+- **Data Analysis Essentials Using Google Colab**
 - 🧭 **Slay and Stretch Wellness Group** — A wellness community of girls by girls to help each other grow and prosper.
 - 💜 **HerHealth Alliance** — A wellness initiative addressing women’s mental health challenges linked to reproductive health.
 - 🛍️ **Merch Store KE** — A creative merchandise business inspired by film, TV, and culture.
+
 
 ---
 
