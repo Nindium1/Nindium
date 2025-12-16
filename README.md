@@ -5,9 +5,10 @@ Welcome to my GitHub! I go by **nindium** — a space where I document my projec
 ---
 
 ## About Me
+
 I'm a data analyst, FP&A, and entrepreneur.
 I’m passionate about combining **business strategy, AI, and data** to build solutions that bring economic prosperity.
----
+
 
 ## Current Projects
 - **Data Analysis Essentials Using Google Colab**
