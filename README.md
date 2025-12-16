@@ -35,8 +35,8 @@ I’m passionate about combining **business strategy, AI, and data** to build so
 
 
 ##  Let’s Connect
-📧 **Email:** maingichristine23@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/christinenindi)  
+- **Email:** maingichristine23@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/christinenindi)  
 
 
 
