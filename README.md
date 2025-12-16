@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Christine Nindi
 
-Welcome to my GitHub! I go by **nindium** — a space where I document my projects, ideas, and experiments across entrepreneurship, technology, and finance.
+Welcome to my GitHub! I go by **nindium** — a space where I document my projects, ideas, and experiments across data analysis, technology, and finance.
 
 ---
 
 ## 💡 About Me
-I'm an **entrepreneur, data analyst, and writer** with a strong interest in innovation, wellness, and women’s empowerment.  
+I'm an **data analyst, FP&A, and entrepreneur.
 I’m passionate about combining **business strategy, AI, and data** to build solutions that bring economic prosperity.
 ---
 
