@@ -25,20 +25,19 @@ I’m passionate about combining **business strategy, AI, and data** to build so
 - **Women’s Empowerment Initiatives**
 
 
-## 🪴 Currently Learning
+##  Currently Learning
 - Building portfolio websites with **GitHub Pages**
 - **AI for business** — integrating automation and analytics into startups
 - **Data Analysis** with the Excelerator Program
 - **OCI** with Oracle
 - Documenting projects effectively with Markdown & Notion
 
----
+
 
 ##  Let’s Connect
 📧 **Email:** maingichristine23@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/christinenindi)  
 
 
----
 
-> “Building meaningful ventures that empower people and inspire growth.”
+
