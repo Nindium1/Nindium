@@ -2,7 +2,6 @@
 
 Welcome to my GitHub! I go by **nindium** — a space where I document my projects, ideas, and experiments across data analysis, technology, and finance.
 
----
 
 ## About Me
 
@@ -17,7 +16,6 @@ I’m passionate about combining **business strategy, AI, and data** to build so
 - **Merch Store KE** — A creative merchandise business inspired by film, TV, and culture.
 
 
----
 
 ## Interests & Skills
 - **Data Science**  
@@ -26,7 +24,6 @@ I’m passionate about combining **business strategy, AI, and data** to build so
 - **Creative Writing & Content Design**  
 - **Women’s Empowerment Initiatives**
 
----
 
 ## 🪴 Currently Learning
 - Building portfolio websites with **GitHub Pages**
