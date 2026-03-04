@@ -24,7 +24,7 @@ End-to-end customer support analysis using a FreshDesk dataset. Led a 6-person i
 An AI-powered multi-agent system built with Python. My first venture into agent architecture and automation design.
 > Tools: Python · Multi-agent framework
 
-###  [Data Analysis Essentials — Google Colab](link-to-repo)
+###  [Data Analysis Essentials — Google Colab](https://github.com/Nindium1/Data-Analysis-Essentials-Using-Google-Colab-Masterclass-by-Excelerate1)
 Exploratory data analysis project covering core data analysis techniques and visualization.
 > Tools: Python · Google Colab · Pandas
 
