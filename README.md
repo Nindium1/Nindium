@@ -16,7 +16,7 @@ I'm a Data Analyst with a background in Finance — I combine quantitative think
 
 ## Featured Projects
 
-###  [Customer Insights & Support Analytics — Excelerate Internship](link-to-repo)
+###  [Customer Insights & Support Analytics — Excelerate Internship](https://github.com/Nindium1/Customer-Insights-FreshDesk-Analysis)
 End-to-end customer support analysis using a FreshDesk dataset. Led a 6-person international team through ticket categorization, data cleaning, sentiment analysis, dashboard design, and workflow automation design.
 > Tools: Google Sheets · Excel · FreshDesk
 
