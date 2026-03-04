@@ -20,7 +20,7 @@ I'm a Data Analyst with a background in Finance — I combine quantitative think
 End-to-end customer support analysis using a FreshDesk dataset. Led a 6-person international team through ticket categorization, data cleaning, sentiment analysis, dashboard design, and workflow automation design.
 > Tools: Google Sheets · Excel · FreshDesk
 
-###  [Cycle Wellness Agent](link-to-repo)
+###  [Cycle Wellness Agent](https://github.com/Nindium1/Cycle_Wellness_Agent)
 An AI-powered multi-agent system built with Python. My first venture into agent architecture and automation design.
 > Tools: Python · Multi-agent framework
 
