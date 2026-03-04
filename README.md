@@ -1,42 +1,61 @@
-# Hi, I'm Christine Nindi
+# Hi, I'm Christine Nindi 
 
-Welcome to my GitHub! I go by **nindium** — a space where I document my projects, ideas, and experiments across data analysis, technology, and finance.
+I'm a Data Analyst with a background in Finance — I combine quantitative thinking with data skills to surface insights that drive real business decisions.
 
+---
 
 ## About Me
 
-I'm a data analyst, FP&A, and entrepreneur.
-I’m passionate about combining **business strategy, AI, and data** to build solutions that bring economic prosperity.
+-  Finance degree — strong foundation in financial modelling, business strategy, and economics
+-  Self-taught in Python and SQL, with hands-on experience in data cleaning, analysis, visualization, and reporting
+-  Recently served as Global Team Lead for the Excelerate Data Analytics & Customer Insights Internship (Jan 2026)
+-  Exploring AI agents and automation — built a multi-agent system using Python
+-  Based in Nairobi, Kenya
 
+---
 
-## Current Projects
-- **Data Analysis Essentials Using Google Colab**
-- **Slay and Stretch Wellness Group** — A wellness community of girls by girls to help each other grow and prosper.
-- **HerHealth Alliance** — A wellness initiative addressing women’s mental health challenges linked to reproductive health.
-- **Merch Store KE** — A creative merchandise business inspired by film, TV, and culture.
+## Featured Projects
 
+###  [Customer Insights & Support Analytics — Excelerate Internship](link-to-repo)
+End-to-end customer support analysis using a FreshDesk dataset. Led a 6-person international team through ticket categorization, data cleaning, sentiment analysis, dashboard design, and workflow automation design.
+> Tools: Google Sheets · Excel · FreshDesk
 
+###  [Cycle Wellness Agent](link-to-repo)
+An AI-powered multi-agent system built with Python. My first venture into agent architecture and automation design.
+> Tools: Python · Multi-agent framework
 
-## Interests & Skills
-- **Data Science**  
-- **Entrepreneurship & Startup Development**  
-- **AI & Digital Innovation**  
-- **Creative Writing & Content Design**  
-- **Women’s Empowerment Initiatives**
+###  [Data Analysis Essentials — Google Colab](link-to-repo)
+Exploratory data analysis project covering core data analysis techniques and visualization.
+> Tools: Python · Google Colab · Pandas
 
+---
 
-##  Currently Learning
-- Building portfolio websites with **GitHub Pages**
-- **AI for business** — integrating automation and analytics into startups
-- **Data Analysis** with the Excelerator Program
-- **OCI** with Oracle
-- Documenting projects effectively with Markdown & Notion
+## Skills
 
+**Data & Analysis**
+`Python` `SQL` `Pandas` `Data Cleaning` `Sentiment Analysis` `Dashboard Design` `Trend Analysis`
 
+**Business & Finance**
+`Financial Analysis` `FP&A` `Business Strategy` `SLA Management` `Executive Reporting`
 
-##  Let’s Connect
-- **Email:** maingichristine23@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/christinenindi)  
+**Tools**
+`Google Sheets` `Excel` `FreshDesk` `Google Colab` `Notion` `Markdown`
+
+---
+
+## Currently Building
+
+-  Portfolio website with GitHub Pages
+-  More data projects to grow my analytical portfolio
+-  Deepening knowledge in AI for business and data automation
+-  Oracle Cloud Infrastructure (OCI)
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christine%20Nindi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christine-nindi-)
+[![Email](https://img.shields.io/badge/Email-maingichristine23%40gmail.com-red?style=flat&logo=gmail)](mailto:maingichristine23@gmail.com)
 
 
 
